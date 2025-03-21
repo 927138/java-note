@@ -1,0 +1,5 @@
+= java-note
+
+== develop env
+* idle : Intellij, vsCode, Eclipse
+* language : java 11
